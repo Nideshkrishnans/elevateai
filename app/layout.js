@@ -14,9 +14,6 @@ const inter = Inter({subsets: ["latin"],preload:true})
 export const metadata = {
   title: "ElevateAI",
   description: "AI Career coach",
-  icons:{
-    icon:"/icon.png"
-  }
 };
 
 export default function RootLayout({ children }) {
