@@ -8,7 +8,7 @@ import { Toaster } from "sonner";
 
 
 
-const inter = Inter({subset: ["latin"]})
+const inter = Inter({subset: ["latin"],preload:true})
 
 
 export const metadata = {
