@@ -167,7 +167,7 @@ export default function Home() {
               <p className="mx-auto max-w-[600px] text-primary-foreground/80 md:text-xl">
                 Join thounsands of professionals who are advancing their careers wit AI-powered guidance.
               </p>
-              <Link href="/dashboard" passHref>
+              <Link href="/onboarding" passHref>
                <Button
                size="lg"
                variant="secondary"
